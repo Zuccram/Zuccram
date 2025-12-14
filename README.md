@@ -4,14 +4,17 @@ I'm Marcus, a Sofware Engineer based in Sweden.
 
 I try to build wants comes to mind. Not afraid to break things and put it back togheter for better understanding.
 
-My main stack is React, Javascript, tailwind and Express. My favourite tool is VS Code.
+TOOL & STACKS
 
-I've got a bunch of pinned projects, will add more soon !
+React, Javascript, tailwind and Express. My favourite tool is VS Code.
 
-Fun Facts:
+I've got a bunch of projects, will add more soon !
+
+A Bit About Me:
 
 - I drink to much coffee
 - Naruto is my favourite anime
+- I have 1 daugther
 - Hobbies: games, anime, family, tv-shows & movies
 
 <!--
