@@ -18,11 +18,3 @@ Här på min GitHub samlar jag mina skolprojekt, laborationer och egna kodbaser 
 
 * **[Projektnamn 1]** – Automatisering av [t.ex. e-handelssajt/inloggningsflöde] med Java.
 * **[Projektnamn 2]** – API-testning och validering av slutpunkter i Postman.
-
----
-
-### 📫 Kontakta mig
-
-* **LinkedIn:** [Länk till din LinkedIn]
-* **E-post:** [Din e-postadress]
-* **Utbildning:** [Länk till EC Utbildnings hemsida, valfritt]
