@@ -1,33 +1,28 @@
-## Hi there 👋
+# Hej, jag är [Marcus Hedengran]! 👋
 
-I'm Marcus, a Sofware Engineer based in Sweden.
+Kvalitetsmedveten **Mjukvarutestare / QA Engineer** under utbildning. Jag studerar just nu till mjukvarutestare på **EC Utbildning i Malmö** (examen [Maj 2028]) och söker aktivt efter [LIA-plats / min första jobbroll]!
 
-I try to build wants comes to mind. Not afraid to break things and put it back togheter for better understanding.
+Här på min GitHub samlar jag mina skolprojekt, laborationer och egna kodbaser inom manuell och automatiserad testning.
 
-TOOL & STACKS
+---
 
-React, Javascript, tailwind and Express. My favourite tool is VS Code.
+### 🛠️ Min Tech Stack & Verktyg
 
-I've got a bunch of projects, will add more soon !
+* **Testmetodik & Processer:** Funktionell testning, Regressionstestning, API-testning, testautomatisering
+* **Testautomation & Verktyg:** Reqtest
+* **Programmering & Skript:** Java, JavaScript
 
-A Bit About Me:
+---
 
-- I drink to much coffee
-- Naruto is my favourite anime
-- I have 1 daugther
-- Hobbies: games, anime, family, tv-shows & movies
+### 🚀 Aktuella Projekt under utbildningen (EC Utbildning)
 
-<!--
-**Zuccram/Zuccram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **[Projektnamn 1]** – Automatisering av [t.ex. e-handelssajt/inloggningsflöde] med Java.
+* **[Projektnamn 2]** – API-testning och validering av slutpunkter i Postman.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Kontakta mig
+
+* **LinkedIn:** [Länk till din LinkedIn]
+* **E-post:** [Din e-postadress]
+* **Utbildning:** [Länk till EC Utbildnings hemsida, valfritt]
